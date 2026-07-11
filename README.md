@@ -1,9 +1,9 @@
-# 📊 Student Stress Level Analysis using Power BI
+#  Student Stress Level Analysis using Power BI
 
-## 📌 Project Overview
+##  Project Overview
 This project analyzes student stress levels using an interactive Power BI dashboard. It provides insights into student stress based on study hours, exam scores, sleep hours, and social media usage.
 
-## 🛠️ Tools Used
+##  Tools Used
 - Power BI
 - Power Query
 - DAX
@@ -19,7 +19,7 @@ This project analyzes student stress levels using an interactive Power BI dashbo
 - Social Media Hours by Study Hours
 - Interactive Slicers and Filters
 
-## 📈 Skills Demonstrated
+##  Skills Demonstrated
 - Data Cleaning
 - Data Transformation
 - Data Visualization
@@ -27,12 +27,11 @@ This project analyzes student stress levels using an interactive Power BI dashbo
 - DAX Calculations
 - Interactive Reporting
 
-## 📁 Files Included
+##  Files Included
 - Student_Stress_Level_Analysis.pbix
-- student_stress.csv
 - dashboard.png
 - README.md
 
-## 📷 Dashboard Preview
+##  Dashboard Preview
 
 ![Dashboard](dashboard.jpg)
